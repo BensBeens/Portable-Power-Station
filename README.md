@@ -16,4 +16,4 @@ I wanted to learn how to make a portable power station. Currently, I'm planning 
 
 #1: So far, I have been top-balancing the cells to ensure their longevity. Once I am done, I will add the BMS and inverter.
 
-#2 (2-1-2026): added a new release v0.1, where I did a first assembly. Many things to improve in the next version. Going to add proper battery terminal covers, panels on the container exterior for easier inverter/charger connections, and proper battery securing to the container.
+#2 (2-1-2026)[link](https://github.com/BensBeens/Portable-Power-Station/releases/tag/v0.1): added a new release v0.1, where I did a first assembly. Many things to improve in the next version. Going to add proper battery terminal covers, panels on the container exterior for easier inverter/charger connections, and proper battery securing to the container.
